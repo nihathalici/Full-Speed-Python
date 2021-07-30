@@ -21,7 +21,7 @@ This is my repo following the book "At full speed with Python" by João Ventura
 
 * **[Exercises with dictionaries](https://github.com/nihathalici/Full-Speed-Python/tree/main/C09-Exercises-with-dictionaries)** - 4 exercises
 
-* **[Exercises with sub dictionaries](https://github.com/nihathalici/Full-Speed-Python/tree/main/C10-Exercises-with-sub-dictionaries)** - 4 exercises
+* **[Exercises with sub dictionaries](https://github.com/nihathalici/Full-Speed-Python/tree/main/C10-Exercises-with-sub-dictionaries)** - 3 exercises
 
 Links and Appendix
 ========================================================
