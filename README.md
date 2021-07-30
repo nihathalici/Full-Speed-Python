@@ -1,6 +1,6 @@
 [![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/nihathalici/Full-Speed-Python/HEAD)
 
-# Full-Speed-Python
+# Full Speed Python
 This is my repo following the book "At full speed with Python" by João Ventura
 
 * **[Exercises with numbers](https://github.com/nihathalici/Full-Speed-Python/tree/main/C01-Exercises-with-numbers)** - 5 exercises
@@ -20,6 +20,8 @@ This is my repo following the book "At full speed with Python" by João Ventura
 * **[Exercises with the while statement](https://github.com/nihathalici/Full-Speed-Python/tree/main/C08-Exercises-with-the-while-statement)** - 1 exercise
 
 * **[Exercises with dictionaries](https://github.com/nihathalici/Full-Speed-Python/tree/main/C09-Exercises-with-dictionaries)** - 4 exercises
+
+* **[Exercises with sub dictionaries](https://github.com/nihathalici/Full-Speed-Python/tree/main/C10-Exercises-with-sub-dictionaries)** - 4 exercises
 
 Links and Appendix
 ========================================================
