@@ -23,6 +23,8 @@ This is my repo following the book "At full speed with Python" by João Ventura
 
 * **[Exercises with sub dictionaries](https://github.com/nihathalici/Full-Speed-Python/tree/main/C10-Exercises-with-sub-dictionaries)** - 3 exercises
 
+* **[Exercises with classes](https://github.com/nihathalici/Full-Speed-Python/tree/main/C11-Exercises-with-classes)** - 6 exercises
+
 Links and Appendix
 ========================================================
 
