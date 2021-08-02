@@ -25,7 +25,7 @@ This is my repo following the book "At full speed with Python" by João Ventura
 
 * **[Exercises with classes](https://github.com/nihathalici/Full-Speed-Python/tree/main/C11-Exercises-with-classes)** - 6 exercises
 
-* **[Exercises with inheritance](https://github.com/nihathalici/Full-Speed-Python/tree/main/C11-Exercises-with-inheritance)** - 3 exercises
+* **[Exercises with inheritance](https://github.com/nihathalici/Full-Speed-Python/tree/main/C12-Exercises-with-inheritance)** - 3 exercises
 
 
 Links and Appendix
