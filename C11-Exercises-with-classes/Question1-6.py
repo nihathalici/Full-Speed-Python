@@ -49,6 +49,6 @@ class Rectangle():
 my_rectangle = Rectangle((5,5), (30, 20))
 print(my_rectangle)
 print(my_rectangle.width) #output 25
-print(my_rectangle.height) #output 25
+print(my_rectangle.height) #output 15
 print(my_rectangle.area()) #output 375
 print(my_rectangle.circumference()) # output 80
