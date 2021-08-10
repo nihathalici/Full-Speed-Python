@@ -7,7 +7,7 @@ This is my repo following the book "At full speed with Python" by João Ventura
 
 * **[Exercises with strings](https://github.com/nihathalici/Full-Speed-Python/blob/main/notebooks/C02-Exercises-with-strings.ipynb)** - 3 exercises
 
-* **[Exercises with lists](https://github.com/nihathalici/Full-Speed-Python/tree/main/C03-Exercises-with-lists)** - 4 exercises
+* **[Exercises with lists](https://github.com/nihathalici/Full-Speed-Python/blob/main/notebooks/C03-Exercises-with-lists.ipynb)** - 4 exercises
 
 * **[Exercises with the math module](https://github.com/nihathalici/Full-Speed-Python/tree/main/C04-Exercises-with-the-math-module)** - 3 exercises
 
