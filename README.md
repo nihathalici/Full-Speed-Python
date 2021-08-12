@@ -11,7 +11,7 @@ This is my repo following the book "At full speed with Python" by João Ventura
 
 * **[Exercises with the math module](https://github.com/nihathalici/Full-Speed-Python/blob/main/notebooks/C04-Exercises-with-the-math-module.ipynb)** - 3 exercises
 
-* **[Exercises with functions](https://github.com/nihathalici/Full-Speed-Python/tree/main/C05-Exercises-with-functions)** - 4 exercises
+* **[Exercises with functions](https://github.com/nihathalici/Full-Speed-Python/blob/main/notebooks/C05-Exercises-with-functions.ipynb)** - 4 exercises
 
 * **[Exercises with recursive functions](https://github.com/nihathalici/Full-Speed-Python/tree/main/C06-Exercises-with-recursive-functions)** - 3 exercises
 
