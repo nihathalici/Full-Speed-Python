@@ -13,7 +13,7 @@ This is my repo following the book "At full speed with Python" by João Ventura
 
 * **[Exercises with functions](https://github.com/nihathalici/Full-Speed-Python/blob/main/notebooks/C05-Exercises-with-functions.ipynb)** - 4 exercises
 
-* **[Exercises with recursive functions](https://github.com/nihathalici/Full-Speed-Python/tree/main/C06-Exercises-with-recursive-functions)** - 3 exercises
+* **[Exercises with recursive functions](https://github.com/nihathalici/Full-Speed-Python/blob/main/notebooks/C06-Exercises-with-recursive-functions.ipynb)** - 3 exercises
 
 * **[Exercises with the for loop](https://github.com/nihathalici/Full-Speed-Python/tree/main/C07-Exercises-with-the-for-loop)** - 7 exercises
 
