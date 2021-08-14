@@ -3,7 +3,7 @@
 # Full Speed Python
 This is my repo following the book "At full speed with Python" by João Ventura
 
-* **[Exercises with numbers](https://github.com/nihathalici/Full-Speed-Python/blob/main/notebooks/C01-Exercises-with-numbers.ipynb)** - 5 exercises
+* **[Exercises with numbers](https://github.com/nihathalici/Full-Speed-Python/blob/main/notebooks/C01-Exercises-with-numbers.ipynb)** - 4 exercises
 
 * **[Exercises with strings](https://github.com/nihathalici/Full-Speed-Python/blob/main/notebooks/C02-Exercises-with-strings.ipynb)** - 3 exercises
 
