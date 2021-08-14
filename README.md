@@ -15,7 +15,7 @@ This is my repo following the book "At full speed with Python" by João Ventura
 
 * **[Exercises with recursive functions](https://github.com/nihathalici/Full-Speed-Python/blob/main/notebooks/C06-Exercises-with-recursive-functions.ipynb)** - 3 exercises
 
-* **[Exercises with the for loop](https://github.com/nihathalici/Full-Speed-Python/tree/main/C07-Exercises-with-the-for-loop)** - 7 exercises
+* **[Exercises with the for loop](https://github.com/nihathalici/Full-Speed-Python/blob/main/notebooks/C07-Exercises-with-the-for-loop.ipynb)** - 7 exercises
 
 * **[Exercises with the while statement](https://github.com/nihathalici/Full-Speed-Python/tree/main/C08-Exercises-with-the-while-statement)** - 1 exercise
 
