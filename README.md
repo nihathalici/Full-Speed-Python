@@ -19,7 +19,7 @@ This is my repo following the book "At full speed with Python" by João Ventura
 
 * **[Exercises with the while statement](https://github.com/nihathalici/Full-Speed-Python/tree/main/C08-Exercises-with-the-while-statement)** - 1 exercise
 
-* **[Exercises with dictionaries](https://github.com/nihathalici/Full-Speed-Python/tree/main/C09-Exercises-with-dictionaries)** - 4 exercises
+* **[Exercises with dictionaries](https://github.com/nihathalici/Full-Speed-Python/blob/main/notebooks/C09-Exercises-with-dictionaries.ipynb)** - 4 exercises
 
 * **[Exercises with sub dictionaries](https://github.com/nihathalici/Full-Speed-Python/tree/main/C10-Exercises-with-sub-dictionaries)** - 3 exercises
 
