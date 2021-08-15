@@ -1,5 +1,5 @@
 """
-Use the python documentation at https://docs.python.org/3/library/stdtypes. html#mapping-types-dict
+Use the python documentation at https://docs.python.org/3/library/stdtypes.html#mapping-types-dict
 to solve the following exercises.
 
 Take the following python dictionary:
