@@ -26,3 +26,15 @@ print("Average of list x is:", sum(x) / len(x))
 print("Average of list y is:", sum(y) / len(y))
 print("Average of list z is:", sum(z) / len(z))
 ```
+
+
+* The volume of a sphere is given by 4/3πr. Calculate the volume of a sphere of radius 5.
+Suggestion:
+Create a variable named "pi" with the value of 3.1415
+
+```python
+pi = 3.1415
+my_rad = 5
+my_vol = (4 / 3 * pi * my_rad)
+print(my_vol)
+```
