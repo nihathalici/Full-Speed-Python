@@ -15,3 +15,17 @@ s = s.replace("c", "ccc")
 
 print(s)
 ```
+
+Another solution:
+```python
+s = "abc"
+
+print(len(s))
+
+new_s = ""
+
+for ch in s:
+    new_s += ch * 3
+
+print(new_s)
+```
