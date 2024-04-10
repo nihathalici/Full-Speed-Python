@@ -1,5 +1,5 @@
 * Create a list named "l" with the following values ([1, 4, 9, 10, 23]). Using the Python documentation about lists
-(https://docs.python.org/3.5/tutorial/introduction. html#lists) solve the following exercises:
+( https://docs.python.org/3.5/tutorial/introduction.html#lists ) solve the following exercises:
 
 1. Using list slicing get the sublists [4, 9] and [10, 23].
 
