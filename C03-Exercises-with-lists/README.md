@@ -24,7 +24,7 @@ print(sub_l_2)
 * Create a list named "l" with the following values ([1, 4, 9, 10, 23]). Using the Python documentation about lists
 ( https://docs.python.org/3.5/tutorial/introduction.html#lists ) solve the following exercises:
 
-Append the value 90 to the end of the list "l".
+2. Append the value 90 to the end of the list "l".
 
 Check the difference between list concatenation and the "append" method.
 
