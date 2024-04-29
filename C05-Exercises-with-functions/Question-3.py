@@ -16,10 +16,3 @@ my_num_1 = int(input("Number 1: "))
 my_num_2 = int(input("Number 2: "))
 
 print(is_divisible(my_num_1, my_num_2))
-
-
-
-
-
-
-    
