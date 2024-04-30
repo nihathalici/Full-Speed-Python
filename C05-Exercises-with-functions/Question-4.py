@@ -10,10 +10,3 @@ def avg(li):
 my_list = [1, 2, 3, 4, 5]
 
 print(avg(my_list))
-
-
-
-
-
-
-    
