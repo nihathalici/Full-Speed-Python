@@ -72,3 +72,16 @@ my_num_2 = int(input("Number 2: "))
 
 print(is_divisible(my_num_1, my_num_2))
 ```
+
+
+* 4. Create a function named "average" that computes the average value of a list passed as parameter to the function.
+Use the "sum" and "len" functions.
+
+```python
+def avg(li):
+    return sum(li) / len(li)
+
+my_list = [1, 2, 3, 4, 5]
+
+print(avg(my_list))
+```
