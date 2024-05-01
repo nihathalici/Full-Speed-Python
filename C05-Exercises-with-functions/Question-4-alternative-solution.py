@@ -17,8 +17,3 @@ while count < 10:
 print("List:", my_li)
 
 print("Average:", get_avg(my_li))
-
-
-
-
-    
