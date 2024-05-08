@@ -58,3 +58,13 @@ my_list = [1, 2, 3, 4, 5]
 print("Maximum value of the list is {} and is on the index {}".format(max(my_list)[0][0], max(my_list)[0][1]))
 ```
 
+
+* Alternative solution:
+
+```python
+my_list = [1, 2, 3, 4, 5]
+max_value = max(my_list)
+max_index = my_list.index(max_value)
+
+print("Maximum value of the list is {} and is on the index {}".format(max_value, max_index))
+```
