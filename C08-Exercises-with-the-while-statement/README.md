@@ -1,7 +1,7 @@
-"""
-Implement a function that receives a number as parameter and prints, in decreasing order,
+
+* Implement a function that receives a number as parameter and prints, in decreasing order,
 which numbers are even and which are odd, until it reaches 0.
-"""
+
 
 ```python
 def even_odd():
