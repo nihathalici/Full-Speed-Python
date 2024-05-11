@@ -29,3 +29,25 @@ ages = {
 
 print(len(ages))
 ```
+
+```python
+ages = {
+    "Peter": 10,
+    "Isabel": 11,
+    "Anna": 9,
+    "Thomas": 10,
+    "Bob": 10,
+    "Joseph": 11,
+    "Maria": 12,
+    "Gabriel": 10,
+}
+
+sum_ages = 0
+
+for name, age in ages.items():
+    sum_ages += age
+
+avg_ages = sum_ages / len(ages)
+
+print(round(avg_ages))
+```
