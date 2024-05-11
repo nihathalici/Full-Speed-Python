@@ -30,7 +30,7 @@ ages = {
 print(len(ages))
 ```
 
-2. Implement a function that receives the "ages" dictionary as parameter and return the average age
+* 2. Implement a function that receives the "ages" dictionary as parameter and return the average age
 of the students. Traverse all items on the dictionary using the "items" method as above.
 
 ```python
